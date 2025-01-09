@@ -1,0 +1,22 @@
+<form (ngSubmit)="postJob()">
+  <label for="title">Job Title:</label>
+  <input type="text" id="title" [(ngModel)]="title" name="title" required />
+  <br />
+  <label for="description">Description:</label>
+  <textarea id="description" [(ngModel)]="description" name="description" required></textarea>
+  <br />
+  <label for="company">Company:</label>
+  <input type="text" id="company" [(ngModel)]="company" name="company" required />
+  <br />
+  <label for="location">Location:</label>
+  <input type="text" id="location" [(ngModel)]="location" name="location" required />
+  <br />
+  <label for="type">Job Type:</label>
+  <select [(ngModel)]="type" name="type" required>
+    <option value="Full-time">Full-time</option>
+    <option value="Part-time">Part-time</option>
+    <option value="Internship">Internship</option>
+  </select>
+  <br />
+  <button type="submit">Post Job</button>
+</form>

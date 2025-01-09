@@ -1,0 +1,17 @@
+{
+    "name": "community-job-portal-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for Community Job Portal",
+    "dependencies": {
+      "axios": "^0.21.1",
+      "@angular/core": "^11.0.5",
+      "@angular/forms": "^11.0.5",
+      "@angular/material": "^11.0.5",
+      "@angular/platform-browser": "^11.0.5",
+      "@angular/platform-browser-dynamic": "^11.0.5",
+      "@angular/router": "^11.0.5",
+      "rxjs": "^6.6.3",
+      "zone.js": "^0.11.4"
+    }
+  }
+  
