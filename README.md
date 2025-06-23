@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple community job portal t post and view job listings. It provides an API for posting job openings and allows users to view all available jobs. The platform serves as a hub for local job seekers and employers.
+A simple community job portal t post and view job listings. It provides an API for posting job openings and allows users to view all available jobs. The platform serves as a hub for local job seekers and employers. 
 
 ## Tech Stack
 
