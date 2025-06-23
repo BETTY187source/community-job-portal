@@ -7,7 +7,7 @@ A simple community job portal t post and view job listings. It provides an API f
 ## Tech Stack
 
 - **Frontend**: Angular
-- **Backend**: Node.js, Express
+- **Backend**: Node.js, Express 
 - **Database**: MongoDB
 
 ## Features
