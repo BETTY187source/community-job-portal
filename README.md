@@ -14,4 +14,4 @@ A simple community job portal t post and view job listings. It provides an API f
 
 - Post a job
 - View all available jobs
-- Simple job listing UI(User Interface)
+- Simple job listing UI
